@@ -2,7 +2,7 @@
 
 ## Overview
 
-I came up with this algorithm when building a REST API server. I wanted to be able to generate methods declared as endpoints in the code on the fly. The original ideas we had was either declare the list of endpoints in a database or have the code dynamically generate the endpoints when needed.
+I came up with this algorithm when building a REST API server. I wanted to be able to generate methods declared as endpoints in the code on the fly. The original ideas we had was either declare the list of endpoints in a database, properties/xml file, or have the code dynamically generate the endpoints when needed.
 
 Since most the Objects in the original code was proprietary the closest library was the one that inspired it: Spring Boot. 
 
